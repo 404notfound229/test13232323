@@ -130,7 +130,7 @@ function Library:Create(table)
     title.TextSize = 20
     title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     title.BackgroundTransparency = 1
-    title.Position = UDim2.fromScale(0.2, 0.054)
+    title.Position = UDim2.fromScale(0.4, 0.054)
     title.Size = UDim2.fromOffset(83, 28)
     title.Parent = main
     
